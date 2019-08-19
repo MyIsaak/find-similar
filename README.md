@@ -1,4 +1,5 @@
 # find-similar
+Recursively find similar files by filename using Dice's Coefficient.
 
 ## Installation
 

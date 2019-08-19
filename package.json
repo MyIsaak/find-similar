@@ -1,5 +1,6 @@
 {
   "name": "find-similar",
+  "description": "recursively find similar files by filename using Dice's Coefficient",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
