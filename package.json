@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "find-similar": "./bin/find-similar.js"
+  },
   "dependencies": {
     "string-similarity": "^3.0.0"
   }
