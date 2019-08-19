@@ -3,6 +3,6 @@ node_js:
   - "10"
 script:
   - yarn
-  - node index.js gulpfile.js test
+  - node tests/gulpTest.js
 cache:
   yarn: true
