@@ -8,6 +8,9 @@
   "bin": {
     "find-similar": "./bin/find-similar.js"
   },
+  "scripts": {
+    "test": "node tests/gulpTest.js"
+  },
   "dependencies": {
     "string-similarity": "^3.0.0"
   }
